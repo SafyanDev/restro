@@ -1,0 +1,22 @@
+.img{
+    width: 80% !important;
+    margin-top: 20%;
+    margin-left: 10%;
+    border-radius: 20%;
+}
+
+.item_desc{
+    text-align: center;
+    cursor: pointer;
+    color:blue;
+}
+
+.calories{
+    position: absolute;
+    right: 15%;
+}
+
+.product_img{
+    border-radius: 20%;
+    width: 50%;
+}
