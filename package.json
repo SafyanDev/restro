@@ -2,6 +2,10 @@
   "name": "resto",
   "version": "0.1.0",
   "private": true,
+  "engines":{
+    "node":"12.18.3",
+    "npm":"6.14.6"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
@@ -12,7 +16,9 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "body-parser": "^1.19.0",
     "bootstrap": "^4.5.3",
+    "express": "^4.17.1",
     "react": "^16.14.0",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^16.14.0",
